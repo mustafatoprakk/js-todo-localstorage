@@ -1,9 +1,7 @@
 ![Screenshot_1](https://user-images.githubusercontent.com/37051222/147726741-4252cb63-6e65-4c2d-9737-eb816255c0be.png)
 
-
-```
-
 ### html
+```
 
 <!doctype html>
 <html lang="en">
@@ -50,7 +48,10 @@
 </html>
 
 
-### js
+```
+
+# js
+```
 
 
 const form=document.querySelector("#addTaskForm")
